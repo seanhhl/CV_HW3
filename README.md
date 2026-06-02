@@ -39,5 +39,3 @@ python main.py
 ## Snapshot
 <img width="930" height="41" alt="image" src="https://github.com/user-attachments/assets/faac336b-bd2c-49bd-974a-5ac502c3ed61" />
 
-585052df9ee0" />
-
